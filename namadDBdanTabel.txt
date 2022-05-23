@@ -1,0 +1,9 @@
+nama db: sensor
+
+nama tabel: logs
+field : id,suhu, kelembaban, waktu
+
+id jadi primary key, auto increment
+waktu menggunakan CURENT TIMESTAMP
+
+
